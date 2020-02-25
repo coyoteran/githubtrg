@@ -3,6 +3,10 @@ This is a sample text file that I can make easy changes to.
 I am doing this to get the nuts and bolts of git figured out.
 
 I am adding a line of text to see if this changes in the master or the biobranch
+  It changed it in the biobranch.
 
 New day.  New addition to this traing text file.  I am cautiously optimistic
 that this is starting to make sense.
+
+Quick test
+
