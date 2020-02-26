@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "alphafiles"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/trevor/anaconda3/bin/python",
+		"python.linting.enabled":true,
+	
+	}
+	
+}
